@@ -1,0 +1,19 @@
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Temporary simulation outputs
+results.txt
+*.vcd
+*.fst
+*.wlf
+transcript
+work/
+
+# Backup and generated files
+*.bak
+*.bak[0-9]*
+*.tmp
+*.log
